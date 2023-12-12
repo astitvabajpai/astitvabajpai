@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @astitvabajpai
 - 👀 I’m interested in coding,anime and sports
 - 🌱 I’m currently learning javascript and node js
-- 💞️ I’m looking to collaborate on various open sour projects
+- 💞️ I’m looking to collaborate on various open source projects
 - 📫 How to reach me gmail- astitvabajpai@gmail.com
 - my instagram-https://www.instagram.com/bajpaiastitv22/
 
