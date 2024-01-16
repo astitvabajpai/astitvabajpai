@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript and node js
 - 💞️ I’m looking to collaborate on various open source projects
 - 📫 How to reach me gmail- astitvabajpai@gmail.com
-- my instagram-https://www.instagram.com/bajpaiastitv22/
+- My instagram-https://www.instagram.com/bajpaiastitv22/
 
 <!---
 astitvabajpai/astitvabajpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
