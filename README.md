@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in **coding,anime,sports**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **various open source projects**
 
